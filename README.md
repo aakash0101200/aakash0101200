@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakashgupta
-- 👀 I’m interested in clicks & debugging
-- 🌱 I’m currently learning DSA,AI and (Java/c++/python)
+-    I’m interested in clicks & debugging
+- 🌱 I’m currently learning DSA,AI and (Java/c++/python/springboot)
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me akgupta7700@gmail.com
 - 😄 Pronouns: sky
